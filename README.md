@@ -1,3 +1,3 @@
 Diginet software documentation
 
-[diginet-ab.github.io](https://diginet-ab.github.io/)
+Hosted on Github pages at [diginet-ab.github.io](https://diginet-ab.github.io/)
